@@ -1,10 +1,10 @@
-### Olá! Eu sou o Rafael Gasparetto
+### Olá! Eu sou Rafael Gasparetto
 
 - :house_with_garden: Eu moro no Brasil.
-- 🔭 Atualmente estou trabalhando na area de merchandising na Unilever Brasil.
-- 🌱 Estudando curso de fullstack javascript/html/css.
-- :books: Estudando Ingles particular 2x por semana.
-- :outbox_tray: Metas para 2022: Emprego na area de TI.
+- 🔭 Atualmente estou trabalhando na área de Merchandising na Unilever Brasil.
+- 🌱 Estudando fullstack javascript/html/css.
+- :books: Estudando Inglés semanalmente.
+- :outbox_tray: Metas para 2022: Emprego na área de TI.
 - Contate-me: <a href = "mailto:rflk.89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      
 <div align="center">
