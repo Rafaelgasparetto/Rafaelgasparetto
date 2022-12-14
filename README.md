@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando na área de Merchandising na Unilever Brasil.
 - 🌱 Estudando atualmente javascript/html/css/typescript/Angular.
 - :books: Estudando Inglês semanalmente.
-- :outbox_tray: Metas para 2022: Emprego na área de TI.
+- :outbox_tray: Metas para 2023: Emprego na área de TI.
 - Contate-me: <a href = "mailto:rflk.89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
      
 <div align="center">
